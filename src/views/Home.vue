@@ -1,7 +1,4 @@
 <script setup lang="ts">
-//导入后无需注册 即可使用
-import HelloWorld from "@components/HelloWorld.vue";
-import vueLogo from "@/assets/logo.png";
 import { themeChange } from "theme-change";
 import { onMounted } from "vue";
 onMounted(() => {

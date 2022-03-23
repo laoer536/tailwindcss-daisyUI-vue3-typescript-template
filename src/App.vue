@@ -1,7 +1,6 @@
 <script setup lang="ts">
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import HelloWorld from "./components/HelloWorld.vue";
 import { onMounted, Suspense } from "vue"; //async setup() 必须与 Suspense 组合使用，Suspense 目前还是处于实验阶段的特性。顶层await的组件必须用这个包裹才搞得到事 否则页面空白
 /**组件说明
  *@component Suspense

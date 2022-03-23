@@ -673,11 +673,6 @@ cross-spawn@^7.0.2:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
-crypto-js@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.npmjs.org/crypto-js/-/crypto-js-4.1.1.tgz#9e485bcf03521041bd85844786b83fb7619736cf"
-  integrity sha512-o2JlM7ydqd3Qk9CA0L4NL6mTzU2sdx96a+oOfPu8Mkl/PK51vSyoi8/rQ8NknZtk44vq15lmhAj9CIAGwgeWKw==
-
 css-selector-tokenizer@^0.8.0:
   version "0.8.0"
   resolved "https://registry.npmmirror.com/css-selector-tokenizer/-/css-selector-tokenizer-0.8.0.tgz#88267ef6238e64f2215ea2764b3e2cf498b845dd"
@@ -1458,11 +1453,6 @@ js-yaml@^4.1.0:
   integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
   dependencies:
     argparse "^2.0.1"
-
-jsencrypt@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.npmjs.org/jsencrypt/-/jsencrypt-3.2.1.tgz#09766983cc760088ff26b12fe7e574252af97727"
-  integrity sha512-k1sD5QV0KPn+D8uG9AdGzTQuamt82QZ3A3l6f7TRwMU6Oi2Vg0BsL+wZIQBONcraO1pc78ExMdvmBBJ8WhNYUA==
 
 json-parse-even-better-errors@^2.3.0:
   version "2.3.1"
