@@ -14,7 +14,7 @@ import { onMounted, Suspense } from "vue"; //async setup() 必须与 Suspense �
   <router-view />
 </template>
 
-<style lang="less">
+<style>
 * {
   /*避免子元素宽高为100%的时候影响到父元素的宽高 此时子元素宽高100%仅代表父元素content部分的宽高*/
   box-sizing: border-box;
