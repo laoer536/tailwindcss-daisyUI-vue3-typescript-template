@@ -50,7 +50,7 @@ export default ({ mode }: { mode: string }) => {
     build: {
       // outDir: `dist_${format(new Date(), "yyyyMMdd_HHmm")}`, //输出路径  新增打日期包
       outDir: `docs`,
-      assetsDir: "assets", //指定生成静态资源的存放路径（相对于 build.outDir）。
+      assetsDir: "tailwindcss-daisyUI-vue3-typescript-template", //指定生成静态资源的存放路径（相对于 build.outDir）。
       assetsInlineLimit: 4096, //小于此阈值的导入或引用资源将内联为 base64 编码，以避免额外的 http 请求。设置为 0 可以完全禁用此项
       //构建后是否生成 source map 文件
       sourcemap: mode != "production",
